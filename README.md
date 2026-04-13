@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > This project is a clean, searchable database of the officially rejected suggestions for the Scratch programming platform. It is designed to help users understand why certain features are not added to Scratch and provides community-sourced workarounds for those limitations.
-> You can open the site at [https://scratchrejected.netlify.app/].
+> https://scratchrejected.netlify.app
 
 ## Key Features
 * Searchable Database: Quickly find specific blocks or interface features using the search bar.
